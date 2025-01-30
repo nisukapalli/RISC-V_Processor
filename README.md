@@ -1,4 +1,4 @@
-# RISC-V_Processor
+# RISC-V Processor Simulator
 This project implements a 32-bit RISC-V Single-Cycle Processor with the following instructions:
 * ADD, SUB, ADDI, XOR, ANDI, SRA
 * LW, SW
